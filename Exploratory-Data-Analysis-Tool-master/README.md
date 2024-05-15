@@ -4,3 +4,4 @@ install streamlit
 Run the app with following command:
 $cd ProjectDirectory
 $streamlit run edawithease.py
+next select dataset and perform operations 
